@@ -44,3 +44,6 @@ for (var prop in arreglo) {
   console.log("prop ->" + prop);
   console.log("arreglo[pos]->" + arreglo[prop]);
 }
+
+var entrada = prompt("mensaje");
+console.log(entrada);
